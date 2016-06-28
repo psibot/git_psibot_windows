@@ -1,1 +1,1 @@
-# git_psibot_windows
+Fun stuff for Oracle on Windows
